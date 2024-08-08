@@ -1,0 +1,132 @@
+/* .main-height {
+    height: 100vh !important;
+}
+
+.signup-card {
+    height: 85vh;
+    background-color: white;
+}
+
+.signup-left-card {
+    height: 85vh;
+}
+
+.main-content {
+    padding-top: 10vh;
+}
+
+.signup-right-card {
+    /* background-color: var(--theme-primary-color); */
+    /* background-image: url('https://uploads-ssl.webflow.com/612ca2a103cd4b980c51550f/6130a1922af7f304ee17a7ac_team-3.jpg');
+    height: 85vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.image-fill {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.divider {
+    position: relative;
+}
+
+.divider .line {
+    height: 1px;
+    background-color: gray;
+    top: 13px;
+    position: relative;
+}
+
+.divider .text {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    display: inline;
+    background-color: white;
+    padding-left: 5px;
+    padding-right: 5px;
+    color: gray;
+}
+
+.form-control {
+    border-top: none !important;
+    border-left: none !important;
+    border-right: none !important;
+    border-radius: 0 !important;
+    padding-left: 0 !important;
+}
+
+.form-control:focus {
+    border-color: var(--theme-primary-color) !important;
+    box-shadow: none !important;
+} */ 
+
+.main-height {
+    height: 100vh !important;
+}
+
+.signup-card {
+    height: 85vh;
+    background-color: white;
+}
+
+.signup-left-card {
+    height: 85vh;
+}
+
+.main-content {
+    padding-top: 10vh;
+}
+
+.signup-right-card {
+    /* background-color: var(--theme-primary-color); */
+    background-image: url('https://imgs.search.brave.com/G1cWpNWUXdfQtH5l_INJvEg5duSFRU_4pQzAl0IMDXc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/Y29weXJpZ2h0Lmdv/di9yZWdpc3RyYXRp/b24vaW1hZ2VzL3Jl/Z2lzdHJhdGlvbi5q/cGc');
+    height: 85vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.image-fill {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.divider {
+    position: relative;
+}
+
+.divider .line {
+    height: 1px;
+    background-color: gray;
+    top: 13px;
+    position: relative;
+}
+
+.divider .text {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    display: inline;
+    background-color: white;
+    padding-left: 5px;
+    padding-right: 5px;
+    color: gray;
+}
+
+.form-control {
+    border-top: none !important;
+    border-left: none !important;
+    border-right: none !important;
+    border-radius: 0 !important;
+    padding-left: 0 !important;
+}
+
+.form-control:focus {
+    border-color: var(--theme-primary-color) !important;
+    box-shadow: none !important;
+}
+ 
